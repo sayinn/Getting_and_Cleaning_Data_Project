@@ -26,6 +26,13 @@ Files available:
 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
 
 ##Description of Steps
-• 
+1.Read all the test and training files  
+2.Read data from the files into the variables and look at their properties  
+3.To create one data set, concatenate the data tables by rows, set names to variables and merge columns  
+4.Subset name of features by measurements on the mean and standard deviation  
+5.Subset the data frame by seleted names of features and check the structures  
+6.Read descriptive activity names, factorise, check  
+7.Replace labels with descriptive variable names  
+8.Write table to create second, independent tidy data set  
 
 
