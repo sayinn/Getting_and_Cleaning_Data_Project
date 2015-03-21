@@ -11,12 +11,12 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ##The Data
 Files available:  
-•test/subject_test.txt
-•test/X_test.txt
-•test/y_test.txt
-•train/subject_train.txt
-•train/X_train.txt
-•train/y_train.txt  
+•test/subject_test.txt  
+•test/X_test.txt  
+•test/y_test.txt  
+•train/subject_train.txt  
+•train/X_train.txt  
+•train/y_train.txt    
 
 ##Requirements
 1.Merges the training and the test sets to create one data set.  
